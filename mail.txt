@@ -1,0 +1,13 @@
+
+
+Hi there,  
+
+We are halfway through our API lifecycle series and the next session , " Using the Open API Specification Across the SDLC   "   is tomorrow, July 24th! We will be discussing the tactical journey of standardizing around Open API and how to scale and enforce design practices across teams in your organization.
+
+In the past two sessions we covered upgrading from open source to pro tooling and exploring design-first vs code-first approaches to API development.  Don't worry if you missed either of these sessions, just sign-up and we will send you a recording of all the past & upcoming sessions!
+
+There are 2 more sessions left in the series, sign up now to not miss out!    Here is an overview of remaining topics we will be discussing:   
+
+    July 24th: Using the Open API Specification Across the SDLC
+    July 31st: Showcasing Teams that Have Put SmartBear Tools into Action
+
